@@ -4,7 +4,7 @@ on: workflow_dispatch
 
 # Environment variables available to all jobs and steps in this workflow
 env:
-  IBM_CLOUD_REGION: us-north
+  IBM_CLOUD_REGION: us-east
   IBM_CLOUD_GROUP: 72c49cae478341318cd1224eb7a2eac3
   IBM_CLOUD_SPACE: dev
   IBM_CLOUD_ORG: hninnumml@gmail.com
